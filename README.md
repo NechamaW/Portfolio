@@ -1,5 +1,6 @@
 # Data Scientist
 Nechama Wilhelm
+
 ### Educations
 data science st peters universiy\ty
 associates degree eastwick college
