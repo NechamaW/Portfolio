@@ -1,6 +1,6 @@
 # Data Scientist
 
-#Nechama Wilhelm
+# Nechama Wilhelm
 
 ### Technical Skills: Python, R, SQL, Exel, Tableau
   
