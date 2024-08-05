@@ -22,6 +22,7 @@
   
 ## Projects
 ### Marketing Campaign Optimization with Predictive Analytics 
+[github repo](https://github.com/NechamaW/Marketing_Campaign)
 
 Developed a data-driven approach for optimizing superstore marketing campaigns using predictive models like Random Forest, SVM, and XGBoost, achieving over 90% accuracy. The process involved data cleaning, preprocessing, and addressing outliers, improving data quality. Applied SMOTE to correct data imbalance, drastically increasing accuracy. Identified key predictors such as recency and income, which enhanced marketing strategies and boosted customer engagement. The Random Forest model achieved an accuracy of 93%.
 
@@ -30,3 +31,7 @@ Developed a data-driven approach for optimizing superstore marketing campaigns u
 
 Data from the 2021 Global Nutrition Report was utilized to analyze trends in adolescent obesity, overweight, and thinness across different regions from 2000 to 2019. Interactive visualizations and a comprehensive Tableau dashboard were created to highlight significant regional variations and correlations between dietary intake and health outcomes. This project showcased data analysis and visualization skills while providing valuable insights for public health strategies targeting adolescent nutrition.
 
+### Recipe Scaler App
+[github repo](https://github.com/NechamaW/Recipe-Modifier)
+
+Created an app designed to modify recipe measurements based on user inputs. The app enables users to upload a picture of a recipe, select desired modifications, and receive adjusted measurements. Utilizing Hugging Face models and large language models (LLMs) for optical character recognition and natural language processing, the app effectively interprets and adjusts recipes. Future plans for the app include ingredient substitution for dietary preferences and serving size adjustments.
