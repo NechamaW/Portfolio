@@ -7,6 +7,9 @@
 - Bachelor of Science in Data Science St. Peters University (_2022-2024_)
 - AAS in Business Eastwick College (_2021-2022_)
 
+## Certifications
+- Associate Data Analyst at Datacamp (_2024_)
+  
 ## Work Experience
 **Financial Review/ Senior Planning Services (_2022 - Present_)**
 - Financial review of Medicaid applications
