@@ -1,7 +1,7 @@
 # Data Scientist
 ## Nechama Wilhelm
 
-### Technical Skills: Python, R, SQL, Exel, Tableau
+### Technical Skills: Python, R, SQL, Excel, Tableau
   
 ## Education
 - Bachelor of Science in Data Science St. Peters University (_2022-2024_)
