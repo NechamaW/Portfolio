@@ -4,8 +4,9 @@
 ### Technical Skills: Python, R, SQL, Excel, Tableau
   
 ## Education
-- Bachelor of Science in Data Science St. Peters University (_2022-2024_)
-- AAS in Business Eastwick College (_2021-2022_)
+- Master in Data Science, St. Peters University (_2024-Present_)
+- Bachelor of Science in Data Science, St. Peters University (_2022-2024_)
+- AAS in Business, Eastwick College (_2021-2022_)
 
 ## Certifications
 - Associate Data Analyst at Datacamp (_2024_)
