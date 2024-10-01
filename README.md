@@ -19,9 +19,9 @@
 - Communicate with team on best approach to resolve red flags
 
 **Teaching Assitant (TA)/ Saint Peters University (_2024 - Present_)**
-- Assisted students in a python programming bachelor's class
-- Provided assistance to students by answering questions and providing guidance on assignments
-- Conducted Zoom office hours to offer additional support and address any queries related to homework, projects, and course content
+- Assist students in a python programming bachelor's class
+- Provide assistance to students by answering questions and providing guidance on assignments
+- Conduct Zoom office hours to offer additional support and address any queries related to homework, projects, and course content
   
 **Private Flute Instructor (_2021_)**
 - Instructed beginner flutists, developing tailored lesson plans
