@@ -18,7 +18,7 @@
 - Problem-solve areas of challenge within financial data 
 - Communicate with team on best approach to resolve red flags
 
-**Teaching Assitant (TA)/ Saint Peters University (_2024 - Present_)**
+**Teaching Assistant (TA)/ Saint Peters University (_2024 - Present_)**
 - Assist students in a python programming bachelor's class
 - Provide assistance to students by answering questions and providing guidance on assignments
 - Conduct Zoom office hours to offer additional support and address any queries related to homework, projects, and course content
